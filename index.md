@@ -1,7 +1,3 @@
----
-layout: default
-title: "你的标题"
----
 <html>
 <body>
 <h1> Test title
