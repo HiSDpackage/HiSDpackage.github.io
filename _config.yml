@@ -1,7 +1,7 @@
 # _config.yml
 title: "你的标题"
 description: "你的描述"
-baseurl: ""  # 如果有子路径，填写子路径
+baseurl: "blob/main"  # 如果有子路径，填写子路径
 url: "https://HiSDpackage.github.io"  # 替换为你的 GitHub Pages 地址
 markdown: kramdown
 theme: jekyll-theme-cayman  # 使用默认主题或其他主题
