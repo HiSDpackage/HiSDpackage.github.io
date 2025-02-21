@@ -8,4 +8,5 @@ theme: jekyll-theme-cayman  # 使用默认主题或其他主题
 
 # 配置 MathJax
 javascript:
-  - "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  - "https://polyfill.io/v3/polyfill.min.js?features=es6"
+  - "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
