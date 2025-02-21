@@ -1,12 +1,11 @@
-# _config.yml
 title: "你的标题"
 description: "你的描述"
-baseurl: ""  # 如果有子路径，填写子路径
+baseurl: ""  # 如果有子路径，填写子路径（例如：/your-repo-name）
 url: "https://HiSDpackage.github.io"  # 替换为你的 GitHub Pages 地址
 markdown: kramdown
-theme: minima  # 使用默认主题或其他主题
+theme: minima  # 使用默认主题 minima
 
 # 配置 MathJax
 javascript:
   - "https://polyfill.io/v3/polyfill.min.js?features=es6"
-  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js"
+  - "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
