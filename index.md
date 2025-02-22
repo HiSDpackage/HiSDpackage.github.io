@@ -1,17 +1,4 @@
-
-<html>
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
-<body>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML" async></script>-->
 # 问题背景
 
 # 什么是$k$阶鞍点
@@ -43,5 +30,3 @@ $$\bm{w^T\mathbb{G}(\hat{x})w}=\displaystyle \sum_{i=k+1}^{d} a_i\bm{\hat{v}}_i^
 =\displaystyle \sum_{i=k+1}^{d} \hat{\lambda}_ia_i^2>0$$
 故$G(\bm{\hat{x}})$在$\mathcal{K'}$上不是负定的，即$\hat{x}$的阶数为$k$。
 
-</body>
-</html>
