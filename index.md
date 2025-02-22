@@ -9,6 +9,7 @@
         });
     </script>
 </head>
+<body>
 # 问题背景
 
 # 什么是$k$阶鞍点
@@ -39,3 +40,5 @@ $$\bm{w}=\displaystyle \sum_{i=k+1}^{d} a_i\bm{\hat{v}}_i$$ 则有
 $$\bm{w^T\mathbb{G}(\hat{x})w}=\displaystyle \sum_{i=k+1}^{d} a_i\bm{\hat{v}}_i^T\sum_{i=k+1}^{d} \hat{\lambda}_ia_i\bm{\hat{v}}_i
 =\displaystyle \sum_{i=k+1}^{d} \hat{\lambda}_ia_i^2>0$$
 故$G(\bm{\hat{x}})$在$\mathcal{K'}$上不是负定的，即$\hat{x}$的阶数为$k$。
+
+</body>
