@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -42,3 +44,4 @@ $$\bm{w^T\mathbb{G}(\hat{x})w}=\displaystyle \sum_{i=k+1}^{d} a_i\bm{\hat{v}}_i^
 故$G(\bm{\hat{x}})$在$\mathcal{K'}$上不是负定的，即$\hat{x}$的阶数为$k$。
 
 </body>
+</html>
