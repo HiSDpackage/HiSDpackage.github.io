@@ -13,5 +13,5 @@
 
 高斯积分的结果为：
 $$
-\int_{-\infty}^\infty e^{-x^2}\,dx = \sqrt{\pi}
+\int_{-\infty}^\infty e^{-x^2}\dx = \sqrt{\pi}
 $$
